@@ -6,6 +6,15 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+
+.criarColaboradores {
+  text-align: center;
+}
+
+.criarColaboradores h1 {
+  margin-bottom: 0;
+}
+
 .times {
   text-align: center;
 }
